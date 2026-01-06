@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MUT-00\\source\\repos\\LAB08_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36291237-BE12-42E0-99BC-FFAEDE6BC25C}|..\\0807\\0807.vcxproj|C:\\Users\\MUT-00\\source\\repos\\0807\\0807.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0EB0EB0-8279-4CD6-ABB6-91753A81B554}|..\\LAB08_02\\LAB08_02.vcxproj|C:\\Users\\MUT-00\\source\\repos\\LAB08_02\\LAB08_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB480F9C-8951-4816-B2C9-291556213DE4}|..\\LAB08_03\\LAB08_03.vcxproj|C:\\Users\\MUT-00\\source\\repos\\LAB08_03\\LAB08_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191A66A3-7E69-4A5B-AF64-A2471046708B}|..\\LAB08_06\\LAB08_06.vcxproj|C:\\Users\\MUT-00\\source\\repos\\LAB08_06\\LAB08_06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28FBA28-1C05-406D-93DC-49716E8DEA44}|..\\LAB08_04\\LAB08_04.vcxproj|C:\\Users\\MUT-00\\source\\repos\\LAB08_04\\LAB08_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B0F3EE-A11B-432B-8D6B-0AE588871B19}|..\\LAB08_05\\LAB08_05.vcxproj|C:\\Users\\MUT-00\\source\\repos\\LAB08_05\\LAB08_05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB7766D-5ABF-4D08-8113-2C5D3DD87DD4}|LAB08_01.vcxproj|C:\\Users\\MUT-00\\source\\repos\\LAB08_01\\LAB08_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEB7766D-5ABF-4D08-8113-2C5D3DD87DD4}|LAB08_01.vcxproj|solutionrelative:LAB08_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LAB08_05.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\source\\repos\\LAB08_05\\LAB08_05.cpp",
+              "RelativeDocumentMoniker": "..\\LAB08_05\\LAB08_05.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\source\\repos\\LAB08_05\\LAB08_05.cpp*",
+              "RelativeToolTip": "..\\LAB08_05\\LAB08_05.cpp*",
+              "ViewState": "AQIAABYAAAAAAAAAAADgvzAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T09:29:54.977Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LAB08_04.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\source\\repos\\LAB08_04\\LAB08_04.cpp",
+              "RelativeDocumentMoniker": "..\\LAB08_04\\LAB08_04.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\source\\repos\\LAB08_04\\LAB08_04.cpp",
+              "RelativeToolTip": "..\\LAB08_04\\LAB08_04.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T09:09:11.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LAB08_06.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\source\\repos\\LAB08_06\\LAB08_06.cpp",
+              "RelativeDocumentMoniker": "..\\LAB08_06\\LAB08_06.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\source\\repos\\LAB08_06\\LAB08_06.cpp",
+              "RelativeToolTip": "..\\LAB08_06\\LAB08_06.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T09:46:22.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LAB08_03.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\source\\repos\\LAB08_03\\LAB08_03.cpp",
+              "RelativeDocumentMoniker": "..\\LAB08_03\\LAB08_03.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\source\\repos\\LAB08_03\\LAB08_03.cpp",
+              "RelativeToolTip": "..\\LAB08_03\\LAB08_03.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAE4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T08:59:56.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "0807.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\source\\repos\\0807\\0807.cpp",
+              "RelativeDocumentMoniker": "..\\0807\\0807.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\source\\repos\\0807\\0807.cpp*",
+              "RelativeToolTip": "..\\0807\\0807.cpp*",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T10:15:18.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LAB08_02.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\source\\repos\\LAB08_02\\LAB08_02.cpp",
+              "RelativeDocumentMoniker": "..\\LAB08_02\\LAB08_02.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\source\\repos\\LAB08_02\\LAB08_02.cpp",
+              "RelativeToolTip": "..\\LAB08_02\\LAB08_02.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T08:44:29.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LAB08_01.cpp",
+              "DocumentMoniker": "C:\\Users\\MUT-00\\source\\repos\\LAB08_01\\LAB08_01.cpp",
+              "RelativeDocumentMoniker": "LAB08_01.cpp",
+              "ToolTip": "C:\\Users\\MUT-00\\source\\repos\\LAB08_01\\LAB08_01.cpp",
+              "RelativeToolTip": "LAB08_01.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T08:34:06.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
